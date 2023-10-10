@@ -1,0 +1,85 @@
+{
+"questions": [
+    {
+      "title": "Hva heter hovedkarakteren i spillet Cyberpunk 2077",
+      "answers": [
+        { "answere": "Bob" },
+        {
+          "answere": "Darkorcx"
+        },
+        {
+          "answere": "Victor"
+        },
+        {
+          "answere": "V",
+          "correct": true
+        }
+      ],
+      "helper": {
+        "text": "Starter på 'v'"
+      }
+    },
+
+    {
+        "title": "Hvilket spill studio laget spillet StarField?",
+        "answers": [
+          { "answere": "CD Project Red" },
+          {
+            "answere": "Todd Howard"
+          },
+          {
+            "answere": "Ubisoft"
+          },
+          {
+            "answere": "Bathesda",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Samme som lagde Skyrim"
+        }
+      },
+
+      {
+        "title": "Hva het Albumet artisten 'Tyler the Creator' kom ut med i 2019?",
+        "answers": [
+          { "answere": "Wolf" },
+          {
+            "answere": "Call me if you get lost"
+          },
+          {
+            "answere": "Flowerboy"
+          },
+          {
+            "answere": "Igor",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Oppkallt etter noen"
+        }
+      },
+
+      {
+        "title": "Hvilke artist har sangen 'EARFQUAKE'?",
+        "answers": [
+          { "answere": "Igor" },
+          {
+            "answere": "Drake"
+          },
+          {
+            "answere": "Earl Sweatshirt"
+          },
+          {
+            "answere": "Tyler the Creator",
+            "correct": true
+          }
+        ],
+        "helper": {
+          "text": "Samme som hadde Albumet 'Igor'"
+        }
+      }
+
+
+  ]
+}
